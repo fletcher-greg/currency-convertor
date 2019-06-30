@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fletcher-greg/currency-convertor/static/css/main.2cce8147.chunk.css",
+    "main.js": "/fletcher-greg/currency-convertor/static/js/main.b36a0c2a.chunk.js",
+    "main.js.map": "/fletcher-greg/currency-convertor/static/js/main.b36a0c2a.chunk.js.map",
+    "runtime~main.js": "/fletcher-greg/currency-convertor/static/js/runtime~main.d4b4261d.js",
+    "runtime~main.js.map": "/fletcher-greg/currency-convertor/static/js/runtime~main.d4b4261d.js.map",
+    "static/js/2.9f4f2337.chunk.js": "/fletcher-greg/currency-convertor/static/js/2.9f4f2337.chunk.js",
+    "static/js/2.9f4f2337.chunk.js.map": "/fletcher-greg/currency-convertor/static/js/2.9f4f2337.chunk.js.map",
+    "index.html": "/fletcher-greg/currency-convertor/index.html",
+    "precache-manifest.ad028762893b2bced8a5c62721b5d506.js": "/fletcher-greg/currency-convertor/precache-manifest.ad028762893b2bced8a5c62721b5d506.js",
+    "service-worker.js": "/fletcher-greg/currency-convertor/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/fletcher-greg/currency-convertor/static/css/main.2cce8147.chunk.css.map"
+  }
+}
